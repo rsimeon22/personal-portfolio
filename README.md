@@ -6,12 +6,19 @@ Welcome to my personal portfolio repository! This README is designed to provide 
 
 # Table of Contents
 1.) Overview
+
 2.) Features
+
 3.) Technologies Used
+
 4.) Project Structure
+
 5.) Getting Started
+
 6.) Usage
+
 7.) Contributing
+
 8.) Contact
 
 1. Overview
