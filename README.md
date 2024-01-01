@@ -72,4 +72,5 @@ If you'd like to contribute to this project, please follow the guidelines outlin
 
 # Contact
 Email: rsimeon9317@gmail.com
+
 LinkedIn: https://www.linkedin.com/in/renauld-simeon-ab9a91283/
