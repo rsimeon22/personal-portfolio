@@ -198,6 +198,7 @@ nav ul li {
   align-items: center;
   justify-content: center;
 }
+
 .projects-title {
   text-align: center;
   margin-bottom: 1rem;
@@ -312,3 +313,82 @@ nav ul li {
   width: 3rem;
   height: 3rem;
 }
+
+.experiences {
+  background-color: var(--bg-color);
+  padding: 32px 0;
+  margin-top: 2rem;
+}
+
+.experience-pic {
+  width: 65%;
+  height: 60%;
+}
+
+.experiences-container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.experiences-title {
+  text-align: center;
+  margin-bottom: 1rem;
+  margin-bottom: var(--bottom-margin);
+}
+
+.experience-container {
+  text-align: center;
+  width: 21.875rem;
+  padding: 1rem;
+}
+
+.experience-container p {
+  padding: 0.4rem;
+}
+
+.experience-details {
+  margin-bottom: var(--bottom-margin);
+}
+
+.experience-card {
+  background-color: #fff;
+  border-radius: 11px;
+  box-shadow: 0 3px 10px var(--primary-shadow);
+  padding: 20px;
+  margin: 10px;
+}
+
+#resume-section {
+  max-width: 800px;
+  margin: 20px auto; /* Center section horizontally */
+  background-color: #fff;
+  padding: 20px;
+  border-radius: 8px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  text-align: center; /* Reset text alignment within the section */
+}
+
+h2 {
+  color: #333;
+}
+
+p {
+  color: #555;
+}
+
+#download-link {
+  display: inline-block;
+  padding: 10px 20px;
+  margin-top: 10px;
+  background-color: var(--primary-color);
+  color: #fff;
+  text-decoration: none;
+  border-radius: 5px;
+  transition: background-color 0.3s ease;
+}
+
+a:hover {
+  background-color: #0056b3;
+}
+
