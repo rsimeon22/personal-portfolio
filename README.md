@@ -13,11 +13,7 @@ Welcome to my personal portfolio repository! This README is designed to provide 
 
 4.) Project Structure
 
-5.) Usage
-
-6.) Contributing
-
-7.) Contact
+5.) Contact
 
 
 
@@ -60,14 +56,6 @@ js/: JavaScript for adding interactivity and dynamic elements.
 img/: Directory for storing images and icons used in the portfolio.
 
 projects/: A folder containing detailed information about individual projects showcased in the portfolio.
-
-
-# Usage
-Feel free to use this portfolio as a template for your own personal portfolio. Customize the content, add your projects, and tailor the design to suit your preferences. If you find any bugs or have suggestions for improvements, please open an issue or submit a pull request.
-
-
-# Contributing
-If you'd like to contribute to this project, please follow the guidelines outlined in the CONTRIBUTING.md file.
 
 
 # Contact
